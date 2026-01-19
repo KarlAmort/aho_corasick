@@ -1,7 +1,10 @@
 name: aho_corasick
-version: 0.1.0
+version: 0.2.0
 
 authors:
   - chenkovsky <chenkov@yeah.net>
+  - KarlAmort
+
+crystal: ">= 1.0.0"
 
 license: MIT
